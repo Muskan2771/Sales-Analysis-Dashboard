@@ -82,7 +82,7 @@ The dataset contains the following columns:
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/yourusername/sales-analysis-dashboard.git
+git clone https://github.com/Muskan2771/Sales-Analysis-Dashboard.git
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 ### 3️⃣ Run the App
