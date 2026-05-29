@@ -82,11 +82,10 @@ The dataset contains the following columns:
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/yourusername/sales-analysis-dashboard.git
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run the App
+### 3️⃣ Run the App
 streamlit run app.py
 📈 Business Insights
 
