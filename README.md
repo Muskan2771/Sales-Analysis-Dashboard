@@ -7,7 +7,7 @@ This project analyzes sales data from a CSV file and provides **real-time busine
 
 ## 🚀 Live Demo
 
-👉 https://sales-analysis-dashboard-myrfv7cjzj9tu5l7btjdio.streamlit.app/
+👉 https://your-streamlit-app-link.streamlit.app
 
 ---
 
@@ -28,15 +28,20 @@ This project is an end-to-end sales analytics solution that helps in understandi
 ## 🛠 Technologies Used
 
 - Python 🐍
-- Streamlit 📊 (Web App Framework)
-- Pandas 📊 (Data Analysis)
-- Matplotlib 📈 (Data Visualization)
+- Streamlit 📊
+- Pandas 📊
+- Matplotlib 📈
+
+---
+
+## 📂 Project Structure
+
 
 Sales-Analysis-Dashboard/
 │
-├── app.py # Streamlit application
-├── sales_data.csv # Dataset
-├── requirements.txt # Dependencies
+├── app.py
+├── sales_data.csv
+├── requirements.txt
 └── README.md
 
 
@@ -69,19 +74,19 @@ The dataset contains the following columns:
 
 ### ⚡ Interactive Dashboard
 - Built using Streamlit
-- Auto-updating visualizations
-- Clean and simple UI
+- Real-time visualization
+- Clean UI for business insights
 
 ---
 
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone Repository
-```bash id="clone1"
+```bash
 git clone https://github.com/yourusername/sales-analysis-dashboard.git
 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run Streamlit App
+3️⃣ Run the App
 streamlit run app.py
 📈 Business Insights
 
@@ -100,8 +105,4 @@ Improve UI design with advanced Streamlit components
 👩‍💻 Author
 
 Muskan
-Aspiring Data Scientist | Python | Data Analytics | Machine Learning  
-
----
-
-## 📂 Project Structure
+Aspiring Data Scientist | Python | Data Analytics | Machine Learning
